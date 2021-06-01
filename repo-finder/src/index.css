@@ -1,0 +1,28 @@
+.search-form{
+  display: grid;
+  place-items: center;
+}
+
+.btn{
+  margin: 5px;
+  background-color: #0366d6;
+}
+
+.form-group{
+  margin: 20px;
+}
+
+.whole-form{
+
+  min-height: 100vh;
+  background-color: darkslategrey;
+  height: auto;
+}
+
+li{
+  list-style: none;
+}
+
+.not-found{
+  color: white;
+}
